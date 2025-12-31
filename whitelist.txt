@@ -7,7 +7,6 @@ contrayhalo=true
 # Blacklisted peeps
 pcmannn=false
 DeltaTheKid=false
-nobody666045=false
 Cheeto_meow1823=false
 honeyboy050119=false
 tectonic_plating=false
@@ -27,5 +26,4 @@ mastergangs21=false
 AetherDellium=false
 Jeffman2115=false
 invixtia=false
-youbung322=false
 Bitefuleddie=false
