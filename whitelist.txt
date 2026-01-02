@@ -5,7 +5,6 @@ EpicExoticMemes=true
 contrayhalo=true
 bossbro23231=true
 TheRealKeneith=true
-nobody666045=true
 
 # Blacklisted peeps
 pcmannn=false
@@ -32,3 +31,9 @@ Bitefuleddie=false
 ClebPleb03=false
 DuskRyder=false
 NINaowo2=false
+nobody666045=false
+AetherDellium=false
+Yujonks=false
+youbung322=false
+warguy111234=false
+ArchangelAzalea=false
