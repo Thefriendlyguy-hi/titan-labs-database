@@ -1,8 +1,8 @@
 # Whitelisted peeps
 WyildNKrazy05BK=true
-MrWestern=true
+MrWestren=true
 EpicExoticMemes=true
-contrayhalo=true
+country_fellow3=true
 bossbro23231=true
 TheRealKeneith=true
 
