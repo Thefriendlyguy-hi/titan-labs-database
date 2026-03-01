@@ -6,6 +6,7 @@ contrayhalo=true
 bossbro23231=true
 TheRealKeneith=true
 SergeantReju21=true
+spencerellsworth=true
 
 # Blacklisted peeps
 pcmannn=false
