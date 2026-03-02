@@ -37,3 +37,4 @@ Rawxdealz=false
 rorophel=false
 Danish_Vexorian=false
 LiamTooFake=false
+Persian2020=false
