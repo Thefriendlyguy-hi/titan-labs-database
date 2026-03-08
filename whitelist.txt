@@ -7,6 +7,7 @@ bossbro23231=true
 TheRealKeneith=true
 SergeantReju21=true
 spencerellsworth=true
+gamerboy09673=true
 
 # Blacklisted peeps
 pcmannn=false
