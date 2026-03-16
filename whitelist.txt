@@ -8,6 +8,7 @@ TheRealKeneith=true
 SergeantReju21=true
 spencerellsworth=true
 gamerboy09673=true
+hotdogvemdor=true
 
 # Blacklisted peeps
 pcmannn=false
