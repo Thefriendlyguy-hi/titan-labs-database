@@ -32,3 +32,5 @@ invixtia=false
 Bitefuleddie=false
 ClebPleb03=false
 DuskRyder=false
+sulfie=false
+xvmzst=false
